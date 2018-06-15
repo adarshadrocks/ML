@@ -1,0 +1,210 @@
++Test Batsmen------------+---------+--------+
+| Rank | Name            | Country | Rating |
++------+-----------------+---------+--------+
+| 1    | S.P.D. Smith    | AUS     | 929    |
+| 2    | V. Kohli        | IND     | 912    |
+| 3    | J.E. Root       | ENG     | 855    |
+| 4    | K.S. Williamson | NZ      | 847    |
+| 5    | D.A. Warner     | AUS     | 820    |
+| 6    | C.A. Pujara     | IND     | 810    |
+| 7    | D. Elgar        | SA      | 784    |
+| 8    | A.K. Markram    | SA      | 759    |
+| 9    | H.M. Amla       | SA      | 726    |
+| 10   | L.D. Chandimal  | SL      | 716    |
++------+-----------------+---------+--------+
++Test Bowlers--------------+---------+--------+
+| Rank | Name              | Country | Rating |
++------+-------------------+---------+--------+
+| 1    | K. Rabada         | SA      | 897    |
+| 2    | J.M. Anderson     | ENG     | 892    |
+| 3    | V.D. Philander    | SA      | 845    |
+| 4    | R.A. Jadeja       | IND     | 844    |
+| 5    | R. Ashwin         | IND     | 803    |
+| 6    | M. Morkel         | SA      | 800    |
+| 6    | P.J. Cummins      | AUS     | 800    |
+| 8    | T.A. Boult        | NZ      | 795    |
+| 9    | H.M.R.K.B. Herath | SL      | 767    |
+| 10   | N. Wagner         | NZ      | 765    |
++------+-------------------+---------+--------+
++Test Allrounders---------+---------+--------+
+| Rank | Name             | Country | Rating |
++------+------------------+---------+--------+
+| 1    |  Shakib Al Hasan | BAN     | 421    |
+| 2    | R.A. Jadeja      | IND     | 391    |
+| 3    | V.D. Philander   | SA      | 372    |
+| 4    | R. Ashwin        | IND     | 368    |
+| 5    | B.A. Stokes      | ENG     | 328    |
+| 6    | Moeen Ali        | ENG     | 264    |
+| 7    | P.J. Cummins     | AUS     | 249    |
+| 8    | M.A. Starc       | AUS     | 248    |
+| 9    | J.O. Holder      | WI      | 227    |
+| 10   | K. Rabada        | SA      | 217    |
++------+------------------+---------+--------+
++ODI Batsmen--------------+---------+--------+
+| Rank | Name             | Country | Rating |
++------+------------------+---------+--------+
+| 1    | V. Kohli         | IND     | 909    |
+| 2    | A.B. de Villiers | SA      | 844    |
+| 3    | D.A. Warner      | AUS     | 823    |
+| 4    | J.E. Root        | ENG     | 814    |
+| 5    |  Babar Azam      | PAK     | 813    |
+| 6    | R.G. Sharma      | IND     | 799    |
+| 7    | L.R.P.L. Taylor  | NZ      | 785    |
+| 8    | Q. de Kock       | SA      | 783    |
+| 9    | F. du Plessis    | SA      | 782    |
+| 10   | K.S. Williamson  | NZ      | 778    |
++------+------------------+---------+--------+
++ODI Bowlers------------+---------+--------+
+| Rank | Name           | Country | Rating |
++------+----------------+---------+--------+
+| 1    | J.J. Bumrah    | IND     | 787    |
+| 2    |  Rashid Khan   | AFG     | 763    |
+| 3    | J.R. Hazlewood | AUS     | 714    |
+| 4    | Hasan Ali      | PAK     | 711    |
+| 5    | T.A. Boult     | NZ      | 699    |
+| 6    |  Imran Tahir   | SA      | 683    |
+| 7    | K. Rabada      | SA      | 679    |
+| 8    | C.R. Woakes    | ENG     | 673    |
+| 9    | Y.S. Chahal    | IND     | 667    |
+| 10   | M.A. Starc     | AUS     | 658    |
++------+----------------+---------+--------+
++ODI Allrounders----------+---------+--------+
+| Rank | Name             | Country | Rating |
++------+------------------+---------+--------+
+| 1    |  Shakib Al Hasan | BAN     | 360    |
+| 2    |  Mohammad Hafeez | PAK     | 339    |
+| 3    |  Mohammad Nabi   | AFG     | 324    |
+| 4    | M.J. Santner     | NZ      | 317    |
+| 5    | C.R. Woakes      | ENG     | 313    |
+| 6    | A.D. Mathews     | SL      | 306    |
+| 7    |  Rashid Khan     | AFG     | 298    |
+| 8    | J.O. Holder      | WI      | 296    |
+| 9    | Moeen Ali        | ENG     | 293    |
+| 10   | B.A. Stokes      | ENG     | 283    |
++------+------------------+---------+--------+
++Twenty20 Batsmen----------+---------+--------+
+| Rank | Name              | Country | Rating |
++------+-------------------+---------+--------+
+| 1    |  Babar Azam       | PAK     | 881    |
+| 2    | C. Munro          | NZ      | 801    |
+| 3    | G.J. Maxwell      | AUS     | 799    |
+| 4    | A.J. Finch        | AUS     | 763    |
+| 5    | E. Lewis          | WI      | 753    |
+| 6    | M.J. Guptill      | NZ      | 747    |
+| 7    | A.D. Hales        | ENG     | 679    |
+| 8    | V. Kohli          | IND     | 670    |
+| 9    |  Mohammad Shahzad | AFG     | 659    |
+| 10   | H. Masakadza      | ZIM     | 648    |
++------+-------------------+---------+--------+
++Twenty 20 Bowlers------+---------+--------+
+| Rank | Name           | Country | Rating |
++------+----------------+---------+--------+
+| 1    |  Rashid Khan   | AFG     | 813    |
+| 2    |  Shadab Khan   | PAK     | 733    |
+| 3    | Y.S. Chahal    | IND     | 706    |
+| 4    | I.S. Sodhi     | NZ      | 700    |
+| 5    | S. Badree      | WI      | 674    |
+| 6    | M.J. Santner   | NZ      | 665    |
+| 7    |  Imran Tahir   | SA      | 650    |
+| 8    |  Mohammad Nabi | AFG     | 638    |
+| 9    |  Imad Wasim    | PAK     | 637    |
+| 10   | J.J. Bumrah    | IND     | 609    |
++------+----------------+---------+--------+
++Twenty20 Allrounders--------+---------+--------+
+| Rank | Name                | Country | Rating |
++------+---------------------+---------+--------+
+| 1    | G.J. Maxwell        | AUS     | 390    |
+| 2    |  Mohammad Nabi      | AFG     | 322    |
+| 3    |  Shakib Al Hasan    | BAN     | 279    |
+| 4    | J-P. Duminy         | SA      | 235    |
+| 5    | M.N. Samuels        | WI      | 230    |
+| 6    | N.L.T.C. Perera     | SL      | 214    |
+| 7    |  Mahmudullah        | BAN     | 212    |
+| 8    |  Samiullah Shenwari | AFG     | 200    |
+| 9    |  Shoaib Malik       | PAK     | 188    |
+| 10   | S.K. Raina          | IND     | 161    |
++------+---------------------+---------+--------+
++Women' s ODI Batting-------+---------+--------+
+| Rank | Name               | Country | Rating |
++------+--------------------+---------+--------+
+| 1    | E.A. Perry         | AUS     | 744    |
+| 2    | S.W. Bates         | NZ      | 696    |
+| 3    | M.M. Lanning       | AUS     | 684    |
+| 4    | S. Mandhana        | IND     | 678    |
+| 5    | N.E. Bolton        | AUS     | 666    |
+| 6    | A.E. Satterthwaite | NZ      | 656    |
+| 6    | M. Raj             | IND     | 656    |
+| 8    | S.R. Taylor        | WI      | 653    |
+| 9    | L. Lee             | SA      | 651    |
+| 10   | N. Sciver          | ENG     | 599    |
++------+--------------------+---------+--------+
++Women's ODI Bowling----+---------+--------+
+| Rank | Name           | Country | Rating |
++------+----------------+---------+--------+
+| 1    | J.L. Jonassen  | AUS     | 676    |
+| 2    | M.L. Schutt    | AUS     | 667    |
+| 3    | M. Kapp        | SA      | 643    |
+| 4    |  Sana Mir      | PAK     | 620    |
+| 5    | J. Goswami     | IND     | 609    |
+| 6    | S. Ismail      | SA      | 592    |
+| 7    | S.R. Taylor    | WI      | 591    |
+| 8    | A. Khaka       | SA      | 590    |
+| 9    | D. van Niekerk | SA      | 584    |
+| 10   | A. Shrubsole   | ENG     | 571    |
++------+----------------+---------+--------+
++Women's ODI Allrounders----+---------+--------+
+| Rank | Name               | Country | Rating |
++------+--------------------+---------+--------+
+| 1    | E.A. Perry         | AUS     | 422    |
+| 2    | S.R. Taylor        | WI      | 386    |
+| 3    | D. van Niekerk     | SA      | 303    |
+| 4    | D. Sharma          | IND     | 298    |
+| 5    | M. Kapp            | SA      | 260    |
+| 6    |  Sana Mir          | PAK     | 252    |
+| 7    | S.W. Bates         | NZ      | 228    |
+| 8    | N. Sciver          | ENG     | 226    |
+| 9    | H.C. Knight        | ENG     | 205    |
+| 10   | A.E. Satterthwaite | NZ      | 203    |
++------+--------------------+---------+--------+
++Women's T20 Batting----+---------+--------+
+| Rank | Name           | Country | Rating |
++------+----------------+---------+--------+
+| 1    | S.R. Taylor    | WI      | 676    |
+| 2    | S.W. Bates     | NZ      | 670    |
+| 3    | M.M. Lanning   | AUS     | 646    |
+| 4    | B.L. Mooney    | AUS     | 631    |
+| 5    | D.J.S. Dottin  | WI      | 617    |
+| 6    | M. Raj         | IND     | 584    |
+| 7    | H. Kaur        | IND     | 573    |
+| 8    | E.J. Villani   | AUS     | 548    |
+| 9    | S. Mandhana    | IND     | 541    |
+| 10   |  Bismah Maroof | PAK     | 531    |
++------+----------------+---------+--------+
++Women's T20 Bowling---+---------+--------+
+| Rank | Name          | Country | Rating |
++------+---------------+---------+--------+
+| 1    | M.L. Schutt   | AUS     | 669    |
+| 2    | L.M. Kasperek | NZ      | 640    |
+| 3    | P. Yadav      | IND     | 611    |
+| 4    | H.K. Matthews | WI      | 610    |
+| 5    |  Anam Amin    | PAK     | 589    |
+| 6    | J.L. Jonassen | AUS     | 587    |
+| 7    | L.M.M. Tahuhu | NZ      | 582    |
+| 8    | S. Ismail     | SA      | 571    |
+| 9    | D. Hazell     | ENG     | 568    |
+| 10   | A. Mohammed   | WI      | 562    |
++------+---------------+---------+--------+
++Women's T20 Allrounders+---------+--------+
+| Rank | Name           | Country | Rating |
++------+----------------+---------+--------+
+| 1    | H.K. Matthews  | WI      | 311    |
+| 2    | D.J.S. Dottin  | WI      | 290    |
+| 3    | S.R. Taylor    | WI      | 286    |
+| 4    | D. van Niekerk | SA      | 270    |
+| 5    | E.A. Perry     | AUS     | 262    |
+| 6    | S.F.M. Devine  | NZ      | 227    |
+| 7    | N. Sciver      | ENG     | 222    |
+| 8    | S.W. Bates     | NZ      | 220    |
+| 9    | I.M.H.C. Joyce | IRE     | 219    |
+| 10   | J.L. Jonassen  | AUS     | 218    |
++------+----------------+---------+--------+
